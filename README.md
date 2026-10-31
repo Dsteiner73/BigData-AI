@@ -49,6 +49,10 @@ Melde Fehler als Issue mit betroffenem Skill, erwarteter Darstellung und einem f
 
 Veröffentliche keine personenbezogenen Lernendeninformationen oder vertraulichen Unterlagen.
 
+## Beiträge auf dominikai.social
+
+Auf **[dominikai.social](https://dominikai.social)** publiziere ich persönliche Beiträge und Reflexionen zu **künstlicher Intelligenz und Leadership**. Die Website ergänzt die Arbeitsanweisungen auf GitHub um meine Gedanken und Einordnungen zu diesen Themen.
+
 ## Über die Sammlung
 
 Persönliche Arbeits- und Unterrichtsmaterialien von Dominik Steiner. Die Inhalte stellen keine offiziellen Positionen von Arbeitgebern, Bildungsinstitutionen, Behörden oder Organisationen dar.
